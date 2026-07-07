@@ -3,15 +3,19 @@
   "downloads": [
     {
       "title": "007 First Light",
-      "urls": ["magnet:?xt=urn:btih:90DB3F7BD7E0627CC36C48E5A469CD0E9A85F996&dn=007+First+Light+%28v1.0.0%2C+M..."],
+      "uris": [
+        "magnet:?xt=urn:btih:90DB3F7BD7E0627CC36C48E5A469CD0E9A85F996"
+      ],
       "uploadDate": "2026-07-07T10:00:00.000Z",
-      "filesize": "35.5 GB"
+      "fileSize": "35.5 GB"
     },
     {
       "title": "People Playground",
-      "urls": ["https://gofile.io/d/Ja4Kuq"],
+      "uris": [
+        "https://gofile.io/d/Ja4Kuq"
+      ],
       "uploadDate": "2026-07-07T10:00:00.000Z",
-      "filesize": "222.2 MB"
+      "fileSize": "222.2 MB"
     }
   ]
 }
