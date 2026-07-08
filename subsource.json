@@ -480,6 +480,18 @@
       ],
       "uploadDate": "2026-07-08T10:00:00.000Z",
       "fileSize": "8.5 GB"
+    },
+       {
+      "id": "South Park – The Stick of Truth",
+      "title": "South Park – The Stick of Truth",
+      "uris": [
+        {
+          "name": "Repack",
+          "url": "https://game-repack.site/2024/08/12/south-park-the-stick-of-truth-update-3-dlcs-tiny-repack/"
+        }
+      ],
+      "uploadDate": "2026-07-08T10:00:00.000Z",
+      "fileSize": "700 MB"
     }
   ]
 }
